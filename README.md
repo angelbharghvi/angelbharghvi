@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angelbharghvi
+- 👋 Hi, I’m @bharghavidevi
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning Data Science Master Course
 - 💞️ I’m a ComputerScience Student
