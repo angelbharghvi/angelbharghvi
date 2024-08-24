@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bharghavidevi
+- 👋 Hi, I’m @bhargavidevi
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Data Science Master Course
-- 💞️ I’m a ComputerScience Student
+- 💞️ I’m a ComputerScience Student 
   
 
 <!---
